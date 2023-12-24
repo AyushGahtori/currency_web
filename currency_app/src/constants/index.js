@@ -47,24 +47,24 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      'Exceptional service – gaming joy delivered promptly and affordably!',
-    name: "Herman Jensen",
+      'We always gives 20% in your first purchase be we allso give 15% cashback on this product',
+    name: "Valorent",
     title: "",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Effortless payments, swift transfers – enhancing gameplay with utmost convenience.",
-    name: "Steve Mark",
+      "We always gives 20% in your first purchase be we allso give 15% cashback on this product.",
+    name: "COD",
     title: "",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "A comfortable gaming experience – smooth transactions and diverse options.",
-    name: "Kenn Gallagher",
+      "We always gives 20% in your first purchase be we allso give 15% cashback on this product.",
+    name: "Pubg",
     title: "",
     img: people03,
   },
