@@ -6,12 +6,15 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Diverse in-game currency,<br className="sm:block hidden" /> extensive gift card selection.
+      
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Unlock diverse in-game currency for various games,
+Explore an extensive selection of versatile gift cards,
+Experience seamless transactions with our easy payment,
+Swiftly receive your products within minutes,
+Elevate your gaming with convenience and variety.
       </p>
 
       <Button styles={`mt-10`} />
